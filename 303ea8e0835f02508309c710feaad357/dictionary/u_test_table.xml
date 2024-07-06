@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="135ee824835f02508309c710feaad3e5" label="test-table" max_length="40" name="u_test_table" type="collection">
+        <element label="boolean" max_length="40" name="u_boolean" type="boolean"/>
+    </element>
+</database>
